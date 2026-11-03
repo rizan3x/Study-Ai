@@ -1,0 +1,6 @@
+{
+  "appId": "com.studymate.ai",
+  "appName": "StudyMate AI",
+  "webDir": "public",
+  "server": { "androidScheme": "https" }
+}
